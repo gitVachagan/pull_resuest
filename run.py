@@ -1,2 +1,2 @@
-for number in range(10):
+for number in range(20):
     print("Python is fun this is for pull request! ")
