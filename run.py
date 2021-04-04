@@ -1,2 +1,2 @@
-for number in range(20):
-    print("Python is fun this is for pull request! ")
+for number in range(10):
+    print("This is main branch")
